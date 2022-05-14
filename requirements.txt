@@ -1,7 +1,6 @@
 seaborn
 altair
-matplotlib.pyplot
+matplotlib
 plotly.express
-matplotlib.dates 
 pandas
 streamlit
